@@ -1,0 +1,433 @@
+._ButtonGroupBase._ButtonGroupBase {
+  height: 42px;
+  align-items: center;
+  outline: solid 1px #d0d5dd;
+  outline-offset: 0px;
+  border-radius: 30px;
+  box-shadow: initial;
+}
+.arrowLeft.arrowLeft {
+  z-index: 0;
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.checkboxGroupItem.checkboxGroupItem {
+  width: initial;
+  align-self: stretch;
+  outline: solid 2px #b3b8db;
+  background-color: #eaecf5;
+}
+._CheckboxBase._CheckboxBase._CheckboxBase {
+  outline: solid 1px #717bbc;
+  background-color: #eaecf5;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.includesUpTo10Users20GBIndivid {
+  color: #4e5ba6;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.checkboxGroupItem2.checkboxGroupItem2 {
+  width: initial;
+  align-self: stretch;
+}
+.includesUpTo10Users20GBIndivid2 {
+  color: #4e5ba6;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.checkboxGroupItem3.checkboxGroupItem3 {
+  width: initial;
+  align-self: stretch;
+}
+.includesUpTo10Users20GBIndivid3 {
+  color: #4e5ba6;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.checkboxGroupItem4.checkboxGroupItem4 {
+  width: initial;
+  align-self: stretch;
+}
+.includesUpTo10Users20GBIndivid4 {
+  color: #4e5ba6;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.plus.plus {
+  z-index: 0;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.inputField.inputField {
+  left: 23px;
+  top: 136px;
+  width: 343px;
+  align-items: flex-start;
+}
+.label {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text {
+  color: #667085;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.button.button {
+  left: calc(50% - -1px);
+  top: 701px;
+  width: 366px;
+  height: 41px;
+  gap: initial;
+  padding: 10px 0;
+  outline: solid 1px #107569;
+  background-color: #107569;
+  transform: translateX(-50%);
+}
+.text2 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.barsStatusBarIPhoneLight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle29 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 44px;
+  background-color: #0e9384;
+  box-shadow: 0px 1px 2px 0px #00000017;
+}
+.battery {
+  position: absolute;
+  left: 349.7867px;
+  top: 17.3333px;
+  width: 25.3012px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.wifi {
+  position: absolute;
+  left: 328.64px;
+  top: 17.3307px;
+  width: 15.9466px;
+  height: 11px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 305.76px;
+  top: 17.6667px;
+  width: 17.68px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.timeStyle {
+  position: absolute;
+  left: 2.0513%;
+  right: 83.5487%;
+  top: 15.9091%;
+  bottom: 36.3636%;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.time {
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.24px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(50% - -5.5px);
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.frame3 {
+  position: absolute;
+  left: 0;
+  top: 44px;
+  width: 389px;
+  height: 63px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+}
+.question {
+  color: #667085;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 117px;
+  height: 42px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.checkboxGroup {
+  position: absolute;
+  left: 22px;
+  top: 275.2476px;
+  width: 344px;
+  height: 385.7524px;
+  flex-direction: column;
+  gap: 12px;
+}
+.checkboxGroupItem5 {
+  height: min-content;
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 16px;
+  outline: solid 1px #eaecf0;
+  outline-offset: -1px;
+  border-radius: 12px;
+  background-color: #fff;
+}
+.content {
+  z-index: 0;
+  width: 281px;
+  height: 29px;
+  align-items: flex-start;
+}
+.textAndSupportingText {
+  height: 29px;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.includesUpTo10Users20GBIndivid5 {
+  color: #475467;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.answer {
+  color: #000;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22px;
+  top: 246px;
+  width: 60.1749px;
+  height: 17.3905px;
+  flex-direction: column;
+}
+.barsHomeIndicatorIPhoneLightPo {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 34px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle30 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 34px;
+  background-color: #fdfdfd;
+}
+.homeIndicator {
+  position: absolute;
+  left: 50%;
+  bottom: 8px;
+  width: 134px;
+  height: 5px;
+  border-radius: 100px;
+  background-color: #181818;
+  transform: translateX(-50%);
+}
+.rectangle39 {
+  position: absolute;
+  left: 50%;
+  bottom: 34px;
+  width: 390px;
+  height: 68px;
+  background-color: #fdfdfd;
+  transform: translateX(-50%);
+}
+.rectangle33 {
+  position: absolute;
+  left: calc(50% - 130px);
+  bottom: 34px;
+  width: 130px;
+  height: 68px;
+  background-color: #fdfdfd;
+  transform: translateX(-50%);
+}
+.rectangle38 {
+  position: absolute;
+  left: calc(50% - 129.9998px);
+  bottom: 49px;
+  width: 96.72px;
+  height: 38px;
+  border-radius: 4px;
+  background-color: #fdfdfd;
+  transform: translateX(-50%);
+}
+.home {
+  color: #125d56;
+  font-size: 12px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 102.9599px);
+  bottom: 55px;
+  width: 59.28px;
+  height: min-content;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.jamHomeF {
+  position: absolute;
+  left: calc(50% - 150.28px);
+  bottom: 55px;
+  width: 24.96px;
+  height: 24px;
+  transform: translateX(-50%);
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle34 {
+  position: absolute;
+  left: calc(50% - -0.0002px);
+  bottom: 34px;
+  width: 130px;
+  height: 68px;
+  background-color: #fdfdfd;
+  transform: translateX(-50%);
+}
+.clarityBookLine {
+  position: absolute;
+  left: calc(50% - -0.52px);
+  bottom: 56px;
+  width: 24.96px;
+  height: 24px;
+  transform: translateX(-50%);
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle35 {
+  position: absolute;
+  left: calc(50% - -129.9998px);
+  bottom: 34px;
+  width: 130px;
+  height: 68px;
+  background-color: #fdfdfd;
+  transform: translateX(-50%);
+}
+.icOutlineAccountCircle {
+  position: absolute;
+  left: calc(50% - -130.5198px);
+  bottom: 56px;
+  width: 24.96px;
+  height: 24px;
+  transform: translateX(-50%);
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}

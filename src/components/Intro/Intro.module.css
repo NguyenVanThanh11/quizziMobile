@@ -1,0 +1,213 @@
+.button.button {
+  width: 137px;
+  outline: solid 1px #107569;
+  background-color: #107569;
+}
+.text {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text2 {
+  color: #0e9384;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #0e9384;
+  overflow: hidden;
+}
+.frame1 {
+  position: absolute;
+  left: calc(50% - -2.5px);
+  top: 613px;
+  width: 357px;
+  height: 208px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  transform: translateX(-50%);
+}
+.frame2 {
+  position: absolute;
+  left: 9px;
+  top: 10px;
+  width: 339px;
+  height: 188px;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding: 0 0 10px;
+}
+.title {
+  color: #134e48;
+  font-size: 30px;
+  line-height: 130%;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.015em;
+  width: 434px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.row {
+  position: relative;
+  height: min-content;
+  align-self: stretch;
+  justify-content: center;
+  align-items: baseline;
+  gap: 4px;
+}
+.text3 {
+  color: #475467;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.barsStatusBarIPhoneLight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle29 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 44px;
+  background-color: #0e9384;
+  box-shadow: 0px 1px 2px 0px #00000017;
+}
+.battery {
+  position: absolute;
+  left: 349.7867px;
+  top: 17.3333px;
+  width: 25.3012px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.wifi {
+  position: absolute;
+  left: 328.64px;
+  top: 17.3307px;
+  width: 15.9466px;
+  height: 11px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 305.76px;
+  top: 17.6667px;
+  width: 17.68px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.timeStyle {
+  position: absolute;
+  left: 2.0513%;
+  right: 83.5487%;
+  top: 15.9091%;
+  bottom: 36.3636%;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.time {
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.24px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(50% - -5.5px);
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.group2 {
+  position: absolute;
+  left: 179px;
+  top: 59px;
+  width: 364.0001px;
+  height: 240.9955px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.group3 {
+  position: absolute;
+  left: -76px;
+  top: 261px;
+  width: 364.0001px;
+  height: 240.9955px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.responsly {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 900;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 92px;
+  top: 524px;
+  width: 227px;
+  height: 89px;
+  flex-direction: column;
+}

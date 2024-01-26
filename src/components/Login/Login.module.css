@@ -1,0 +1,326 @@
+.inputField.inputField {
+  width: initial;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.text {
+  color: #667085;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.inputField2.inputField2 {
+  width: initial;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.label {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text2 {
+  color: #667085;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.checkbox.checkbox {
+  width: initial;
+  flex: 1;
+}
+.textAndSupportingText.textAndSupportingText {
+  align-items: flex-start;
+}
+.text3 {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.button.button {
+  height: initial;
+  align-self: stretch;
+}
+.text4 {
+  color: #107569;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.button2.button2 {
+  width: initial;
+  align-self: stretch;
+  outline: solid 1px #0e9384;
+  background-color: #0e9384;
+}
+.text5 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.barsStatusBarIPhoneLight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle29 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 44px;
+  background-color: #0e9384;
+  box-shadow: 0px 1px 2px 0px #00000017;
+}
+.battery {
+  position: absolute;
+  left: 349.7867px;
+  top: 17.3333px;
+  width: 25.3012px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.wifi {
+  position: absolute;
+  left: 328.64px;
+  top: 17.3307px;
+  width: 15.9466px;
+  height: 11px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 305.76px;
+  top: 17.6667px;
+  width: 17.68px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.timeStyle {
+  position: absolute;
+  left: 2.0513%;
+  right: 83.5487%;
+  top: 15.9091%;
+  bottom: 36.3636%;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.time {
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.24px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(50% - -5.5px);
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.content {
+  position: absolute;
+  left: calc(50% - 0.5px);
+  top: 80px;
+  width: 343px;
+  height: min-content;
+  flex-direction: column;
+  justify-content: center;
+  gap: 32px;
+  transform: translateX(-50%);
+}
+.header {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.responsly {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 900;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 227px;
+  height: 89px;
+  flex-direction: column;
+}
+.textAndSupportingText2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 8px;
+  margin: 0px 0px 0px -19px;
+}
+.text6 {
+  color: #101828;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.supportingText {
+  color: #475467;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.content2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  border-radius: 12px;
+}
+.form {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+}
+.row {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+}
+.actions {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 16px;
+}
+.socialButton {
+  width: 343px;
+  height: min-content;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 16px;
+  outline: solid 1px #d0d5dd;
+  outline-offset: -1px;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0px 1px 2px 0px #1018280d;
+}
+.socialIcon {
+  width: 24px;
+  height: 24px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.text7 {
+  color: #344054;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.barsHomeIndicatorIPhoneLightPo {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 34px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle30 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 34px;
+  background-color: #fdfdfd;
+}
+.homeIndicator {
+  position: absolute;
+  left: 50%;
+  bottom: 8px;
+  width: 134px;
+  height: 5px;
+  border-radius: 100px;
+  background-color: #181818;
+  transform: translateX(-50%);
+}
